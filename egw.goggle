@@ -1,5 +1,8 @@
 ! name: Ellen G. White Goggle
 ! description: Inspiring Christian Adventist author brings you quality insight into the Bible from the various websites that host her writings. Supposed to be more effective than the official search engine. 
+! public: true
+! author: Me
+! license: MIT
 
 $discard
 $boost=10,site=egwwritings.org
